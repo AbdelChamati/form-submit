@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/form-submit/static/css/main.eb53af2a.css",
+    "main.js": "/form-submit/static/js/main.ffdf4a15.js",
+    "static/media/globe.png": "/form-submit/static/media/globe.8696b540297444cbcbcd.png",
+    "index.html": "/form-submit/index.html",
+    "main.eb53af2a.css.map": "/form-submit/static/css/main.eb53af2a.css.map",
+    "main.ffdf4a15.js.map": "/form-submit/static/js/main.ffdf4a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb53af2a.css",
+    "static/js/main.ffdf4a15.js"
+  ]
+}
